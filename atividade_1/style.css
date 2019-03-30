@@ -1,0 +1,58 @@
+body{
+    background-color: #FAF3F4;
+    font-family: 'Tahoma', sans-serif;
+}
+
+h1{
+    color: #D66425;
+}
+a{
+    color: #c03d93;
+}
+
+.adalove{
+    background-color: #E2B5E5;
+    background-image: url('./img/back-ada.jpg');
+}
+
+h1.titulo{
+    background-color: #E82F0C;
+    color: #E2B5E5;
+    text-align: center;
+}
+strong.ada{
+    background-color: 
+}
+
+.grace{
+    background-color: #EDEFF9;
+    background-image: url('./img/back-grace.gif');
+}
+h1.titulo{
+    background-color: #A30CE8;  
+    color: #EDEFF9;
+    text-align: center;
+}
+
+.margaret{
+    background-color: #F9D5DB;
+    background-image: url('./img/back-marg.jpg');
+}
+h1.titulo{
+    background-color: #E80C1E;
+    text-align: center;
+    color: #F9D5DB;
+}
+p.texto{
+    background-color: #F9D5DB;
+}
+
+.mary{
+    background-color: #F4DCB8;
+    background-image: url('./img/back-mary.jpg');
+}
+h1.mary{
+        color: #F4DCB8;
+        background-color: #700DFF;
+        text-align: center;
+}
