@@ -1,0 +1,27 @@
+h1 {
+    color: #ff5540;
+    font-size: 15px;
+    font-family: "Times New Roman", Times, serif;
+    margin: 13px 12px 13px 14px;
+}
+h2 {
+    color: #f000ff;
+}
+p {
+    color: #99C8FF;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #333;
+    padding: 15px 12px 13px 14px;
+}
+p a{
+    color: #FF2F2A;
+}
+.rosa {
+    color: #333;
+    background-color: pink;
+    font-size: 15px;
+}
+#introducao {
+    font-size: 20px;
+}
