@@ -1,0 +1,23 @@
+display: flex;
+Ele não deve quebrar linha, um ao lado do outro
+no-wrap: não quebra a linha, vai até o fim 
+flex-wrap: quebra linha conforme o conteúdo
+
+display: block;
+ocupa toda a linha
+
+justify-content: justifica o conteudo conforme as propriedades:
+flex-start: alinha conteúdo na esquerda
+flex-end: alinha na direita
+center: centraliza
+space-between: conteudos separados ao meio
+space-around: igual between mas com espaço nas laterais
+justify-content: center; //column; bom pra versão mobile, deixa em colunas
+
+*align-items: mesmas prioridades do justify-content
+
+
+container
+é um tipo para criar caixinhas
+
+
